@@ -37,6 +37,7 @@ We provide two processed datasets: ML100K and KKBOX
 * `test_negative.txt`
   * Test file (for KKBOX).
   * For KKBOX, the ranking is performed between 1 postive instance vs 999 negative instances
+  * Download from [this link](https://drive.google.com/file/d/1UPzq2XCUQWf4wOZqTAQA-NtVs89HkcjD/view?usp=sharing).
   
 * `auxiliary-mapping.txt`
   * For ML100K, itemID|genreIDs|directorIDs|actorsIDs|.
