@@ -1,5 +1,5 @@
 # RCF 
-This is the implementation of paper:
+This is the implementation of paper (Codes may be delay, because now I'm taking an internship at Barcelona and the codes are at my university office. I can only process through remote desktop and it's slow. I will upload it as fast as I can.):
 
 
 >Xin Xin, Xiangnan He, Yongfeng Zhang, Yongdong Zhang and Joemon Jose (2019). [Relational Collaborative Filtering: Modeling Multiple Item Relations for Recommendation](https://arxiv.org/abs/1904.12796).
